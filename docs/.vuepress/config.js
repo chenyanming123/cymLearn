@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "personBook",
-  "description": "p1231",
+  "title": "俺们村二牛他哥",
+  "description": "The determination to succeed is more than anything else",
   "dest": "public",
   "head": [
     [
@@ -93,7 +93,7 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "/hero.png",
+    "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "sidebar": "auto",
@@ -106,4 +106,5 @@ module.exports = {
   "markdown": {
     "lineNumbers": true
   }
+  
 }

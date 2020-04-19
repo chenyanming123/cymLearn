@@ -1,5 +1,6 @@
 ---
 home: true
+
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -9,6 +10,8 @@ home: true
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
+
+bgImage: /homeBackImg.jpg
 bgImageStyle: {
   height: '450px'
 }
